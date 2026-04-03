@@ -1,0 +1,14 @@
+{
+  "name": "Stickies",
+  "identifier": "com.beret21.popclip.make-sticky",
+  "description": "Make a new Stickies note with the selected text.",
+  "icon": "preserve-color file:stickies.png",
+  "macos version": "11.0",
+  "popclip version": 4151,
+  "actions": [
+    {
+      "title": "Make Sticky",
+      "service name": "Make Sticky"
+    }
+  ]
+}
